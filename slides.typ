@@ -142,7 +142,6 @@
           acc.push(title)
           current_level = level
         } else if level == 1 {
-          acc.push(title)
           break
         }
       }
